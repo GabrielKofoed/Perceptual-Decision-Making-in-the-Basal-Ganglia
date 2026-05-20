@@ -1,0 +1,15 @@
+[project]
+name = "PDM_in_bg"
+version = "0.1.0"
+description = "Bachelor project - Perceptual decision making in the basal ganglia"
+authors = [{name = "Gabriel Kofoed"}]
+dependencies = []
+requires-python = ">=3.11"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["project*"]
