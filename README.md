@@ -29,7 +29,14 @@ Furthermore, this repository contains the data and figures generated for the the
 
 ## Usage
 Download dependencies from requirements.txt and pyproject.toml. If pyproject.toml is not
-incorporated correctly, the system will not be able to find the source files.
+incorporated correctly, the system will not be able to find the source files. The dependencies 
+can be installed like this.
+```bash
+pip install -e .
+pip install -r requirements.txt
+```
+If you are using visual studio code, I recommend creating a virtual envelope and specifying that
+dependencies should be installed from the two mentioned files.
 
 Look to the scripts folder if you want to reproduce data from the thesis. Look to the notebooks
 if you want to reproduce the figures.
