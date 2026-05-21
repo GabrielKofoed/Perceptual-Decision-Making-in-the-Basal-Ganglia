@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Perceptual decision making in the basal ganglia"
+authors:
+  - family-names: "Kofoed"
+    given-names: "Gabriel"
+year: 2026
+license: MIT
+repository-code: "https://github.com/GabrielKofoed/PDM_in_BG"
