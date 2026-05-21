@@ -7,6 +7,14 @@ implementation in neuromorphic hardware.
 The model is implemented in Python using Nengo and simulates a two-alternative
 perceptual decision-making task inspired by random dot motion experiments.
 
+## Academic context
+
+This repository accompanies a bachelor project on basal-ganglia-inspired
+perceptual decision making and neuromorphic hardware.
+
+If reusing the code or ideas, please cite the associated thesis or contact the
+author.
+
 ## Project overview
 
 The project investigates the performance a basal ganglia-inspired action selection
