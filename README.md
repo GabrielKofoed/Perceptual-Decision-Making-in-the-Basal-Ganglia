@@ -71,7 +71,7 @@ figures/               # Figures generated for the thesis
 notebooks/             # Exploratory notebooks, used for generating figures 
 scipts/                # scipts for generating data
 
-src/
+src/project/
 ├── networks/          # Model builder
     ├── cbgt.py        # CBGT model builder
     └── cortex.py      # Cortex builder
