@@ -72,7 +72,7 @@ notebooks/             # Exploratory notebooks, used for generating figures
 scipts/                # scipts for generating data
 
 src/
-├── networks/          # Model components
+├── networks/          # Model builder
     ├── cbgt.py        # CBGT model builder
     └── cortex.py      # Cortex builder
 └── utilities/         # Simulation builder, statistics, and helper functions
@@ -80,11 +80,11 @@ src/
     ├── simulation.py  # Simulation builder. For running tasks and generating data
     └── statistics.py  # Helper functions for calculating statistics with confidence intervals
 
-notebooks/           # Exploratory notebooks and figure generation
-pyproject.toml       # Configuration. It allows src to be installed as a local package.
-requirements.txt     # Python dependencies
-README.md            # Project description
-LICENSE              # Repository license
+notebooks/             # Exploratory notebooks and figure generation
+pyproject.toml         # Configuration. It allows src to be installed as a local package.
+requirements.txt       # Python dependencies
+README.md              # Project description
+LICENSE                # Repository license
 ```
 
 ## References
