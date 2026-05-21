@@ -85,3 +85,29 @@ pyproject.toml       # Configuration. It allows src to be installed as a local p
 requirements.txt     # Python dependencies
 README.md            # Project description
 LICENSE              # Repository license
+```
+
+## References
+### Nengo and the Neural Engineering Framework
+Applied Brain Research. Nengo API Reference. https://www.nengo.ai/nengo/v4.0.0/networks.html#nengo.networks.Thalamus. Accessed 20 May 2026
+
+Eliasmith, C. (2013). *How to Build a Brain: A Neural Architecture for Biological Cognition*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199794546.001.0001
+
+Stewart, T. C. (2012). *A technical overview of the Neural Engineering Framework* (Technical Report). Centre for Theoretical Neuroscience. Extended version of an article for *AISB Quarterly: The Newsletter of the Society for the Study of Artificial Intelligence and Simulation of Behaviour*, Issue 135.
+
+Stewart, T. C., Tripp, B., & Eliasmith, C. (2009). *Python scripting in the Nengo simulator*. Frontiers in Neuroinformatics, 3. https://doi.org/10.3389/neuro.11.007.2009
+
+### CBGT models
+Xiao-Jing Wang. *Probabilistic decision making by slow reverberation in cortical circuits*. In: Neuron 36 (2002), pp. 955–968. doi: 10.1016/S0896-6273(02)01092-9.
+
+Ding, L., & Gold, J. I. (2013). *The basal ganglia’s contributions to perceptual decision making*. Neuron, 79, 640–649. https://doi.org/10.1016/j.neuron.2013.07.042
+
+Dunovan, K., Vich, C., Clapp, M., Verstynen, T., & Rubin, J. (2019). *Reward-driven changes in striatal pathway competition shape evidence evaluation in decision-making*. PLOS Computational Biology, 15(5), e1006998. https://doi.org/10.1371/journal.pcbi.1006998
+
+Wei, W., Rubin, J. E., & Wang, X.-J. (2015). *Role of the indirect pathway of the basal ganglia in perceptual decision making*. Journal of Neuroscience, 35(9), 4052–4064. https://doi.org/10.1523/JNEUROSCI.3611-14.2015
+
+
+### The dots task
+Wulfram Gerstner et al. *Neuronal Dynamics: From Single Neurons to Networks and Models of Cognition*. 2014.
+Perceptual Decision Making Exercise (Python)url: https://neuronaldynamics-exercises.readthedocs.io/en/latest/exercises/perceptual-decision-making.html
+Accessed 6 April 2026
