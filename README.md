@@ -57,7 +57,7 @@ You can also run your own experiments. Study the networks carefully along with t
 >will look pretty, however.
 >Also, if you wish to reproduce data by using the given scripts, be aware that data generation
 >will take a long time. Each script can take a few hours to complete. Alternatively, the amount
->of neurons per ensemble can be reduced.
+>of neurons per ensemble can be reduced to minimize run time.
 
 ## Repository structure
 
